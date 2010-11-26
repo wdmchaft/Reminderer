@@ -1,0 +1,262 @@
+TReminderer
+v7
+r0
+t312428918.018530
+cCheck dependencies
+cProcessInfoPlistFile /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Info.plist Reminderer-Info.plist
+cCompileXIB /Users/rynmrtn/code/Reminderer/MainWindow.xib
+cCompileXIB /Users/rynmrtn/code/Reminderer/RootViewController.xib
+cProcessPCH /var/folders/Ht/Ht5vLYy2GiuH3KeNorJJY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reminderer_Prefix-akzuqgtqtiohiufckzpyegusosue/Reminderer_Prefix.pch.gch Reminderer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/main.o /Users/rynmrtn/code/Reminderer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RemindererAppDelegate.o /Users/rynmrtn/code/Reminderer/Classes/RemindererAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RootViewController.o /Users/rynmrtn/code/Reminderer/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer normal i386
+cGenerateDSYMFile /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app.dSYM /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer
+cTouch /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/rynmrtn/code/Reminderer/Classes/RemindererAppDelegate.h
+c000000004CEF101500000000000001DC
+t1290735637
+s476
+i<UIKit/UIKit.h>
+
+N/Users/rynmrtn/code/Reminderer/Classes/RemindererAppDelegate.m
+c000000004CEF10150000000000000AA9
+t1290735637
+s2729
+i"RemindererAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/rynmrtn/code/Reminderer/Classes/RootViewController.h
+c000000004CEF101500000000000000EE
+t1290735637
+s238
+i<UIKit/UIKit.h>
+
+N/Users/rynmrtn/code/Reminderer/Classes/RootViewController.m
+c000000004CEF101500000000000010C6
+t1290735637
+s4294
+i"RootViewController.h"
+
+N/Users/rynmrtn/code/Reminderer/MainWindow.xib
+c000000004CEF10150000000000006000
+t1290735637
+s24576
+
+N/Users/rynmrtn/code/Reminderer/Reminderer_Prefix.pch
+c000000004CEF10150000000000000146
+t1290735637
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/rynmrtn/code/Reminderer/RootViewController.xib
+c000000004CEF10150000000000004455
+t1290735637
+s17493
+
+N/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app
+t1290736118
+s238
+
+N/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app.dSYM
+t1290736118
+s102
+
+N/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Info.plist
+t1290736116
+s603
+
+N/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/MainWindow.nib
+t1290736117
+s2459
+
+N/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/PkgInfo
+t1290736116
+s8
+
+N/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer
+t1290736117
+s18060
+
+N/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/RootViewController.nib
+t1290736117
+s1518
+
+N/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/Reminderer.LinkFileList
+c000000004CEF11F40000000000000187
+t1290736116
+s391
+
+N/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RemindererAppDelegate.o
+t1290736117
+s49612
+
+N/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RootViewController.o
+t1290736117
+s38096
+
+N/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/main.o
+t1290736117
+s6288
+
+N/Users/rynmrtn/code/Reminderer/main.m
+c000000004CEF1015000000000000016C
+t1290735637
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/Ht/Ht5vLYy2GiuH3KeNorJJY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reminderer_Prefix-akzuqgtqtiohiufckzpyegusosue/Reminderer_Prefix.pch.gch
+t1290736117
+s15211536
+
+NReminderer-Info.plist
+c000000004CEF1015000000000000038D
+t1290735637
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312428916#312428916#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RemindererAppDelegate.o /Users/rynmrtn/code/Reminderer/Classes/RemindererAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312428917.791007
+e312428917.899999
+r1
+xCompileC
+xbuild/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RemindererAppDelegate.o
+x/Users/rynmrtn/code/Reminderer/Classes/RemindererAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/rynmrtn/code/Reminderer/Classes/RemindererAppDelegate.m312428917#312428917#0(0"0(0#0#62"/Users/rynmrtn/code/Reminderer/Classes/RemindererAppDelegate.m8604185600#1928"    cd /Users/rynmrtn/code/Reminderer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-generated-files.hmap -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-own-target-headers.hmap -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-all-target-headers.hmap -iquote /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-project-headers.hmap -F/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator -I/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/include -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/DerivedSources/i386 -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/DerivedSources -include /var/folders/Ht/Ht5vLYy2GiuH3KeNorJJY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reminderer_Prefix-akzuqgtqtiohiufckzpyegusosue/Reminderer_Prefix.pch -c /Users/rynmrtn/code/Reminderer/Classes/RemindererAppDelegate.m -o /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RemindererAppDelegate.o0#
+
+CCompileC build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RootViewController.o /Users/rynmrtn/code/Reminderer/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312428917.792341
+e312428917.896146
+r1
+xCompileC
+xbuild/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RootViewController.o
+x/Users/rynmrtn/code/Reminderer/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/rynmrtn/code/Reminderer/Classes/RootViewController.m312428917#312428917#0(0"0(0#0#59"/Users/rynmrtn/code/Reminderer/Classes/RootViewController.m8604209856#1922"    cd /Users/rynmrtn/code/Reminderer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-generated-files.hmap -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-own-target-headers.hmap -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-all-target-headers.hmap -iquote /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-project-headers.hmap -F/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator -I/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/include -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/DerivedSources/i386 -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/DerivedSources -include /var/folders/Ht/Ht5vLYy2GiuH3KeNorJJY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reminderer_Prefix-akzuqgtqtiohiufckzpyegusosue/Reminderer_Prefix.pch -c /Users/rynmrtn/code/Reminderer/Classes/RootViewController.m -o /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/main.o /Users/rynmrtn/code/Reminderer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312428917.789550
+e312428917.876061
+r1
+xCompileC
+xbuild/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/main.o
+x/Users/rynmrtn/code/Reminderer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/rynmrtn/code/Reminderer/main.m312428917#312428917#0(0"0(0#0#37"/Users/rynmrtn/code/Reminderer/main.m8604160448#1886"    cd /Users/rynmrtn/code/Reminderer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-generated-files.hmap -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-own-target-headers.hmap -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-all-target-headers.hmap -iquote /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-project-headers.hmap -F/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator -I/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/include -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/DerivedSources/i386 -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/DerivedSources -include /var/folders/Ht/Ht5vLYy2GiuH3KeNorJJY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reminderer_Prefix-akzuqgtqtiohiufckzpyegusosue/Reminderer_Prefix.pch -c /Users/rynmrtn/code/Reminderer/main.m -o /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/rynmrtn/code/Reminderer/MainWindow.xib
+s312428916.735846
+e312428917.132377
+r1
+xCompileXIB
+x/Users/rynmrtn/code/Reminderer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib312428916#312428917#0(0"0(0#0#45"/Users/rynmrtn/code/Reminderer/MainWindow.xib8603959392#549"    cd /Users/rynmrtn/code/Reminderer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/MainWindow.nib /Users/rynmrtn/code/Reminderer/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/rynmrtn/code/Reminderer/RootViewController.xib
+s312428916.737345
+e312428917.132133
+r1
+xCompileXIB
+x/Users/rynmrtn/code/Reminderer/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib312428916#312428917#0(0"0(0#0#53"/Users/rynmrtn/code/Reminderer/RootViewController.xib8603216608#565"    cd /Users/rynmrtn/code/Reminderer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/RootViewController.nib /Users/rynmrtn/code/Reminderer/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app.dSYM /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer
+s312428917.988802
+e312428918.013293
+r1
+xGenerateDSYMFile
+x/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app.dSYM
+x/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Reminderer.app.dSYM build/Debug-iphonesimulator/Reminderer.app/Reminderer312428917#312428918#0(0"0(0#0#84"/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer8603240928#368"    cd /Users/rynmrtn/code/Reminderer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer -o /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app.dSYM0#
+
+CLd /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer normal i386
+s312428917.900132
+e312428917.988656
+r1
+xLd
+x/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer
+xnormal
+xi386
+lSLF07#2@89"Link /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer312428917#312428917#0(0"0(0#0#0"8604080800#875"    cd /Users/rynmrtn/code/Reminderer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator -F/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator -filelist /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Objects-normal/i386/Reminderer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Reminderer0#
+
+CProcessInfoPlistFile /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Info.plist Reminderer-Info.plist
+s312428916.729265
+e312428916.735745
+r1
+xProcessInfoPlistFile
+x/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Info.plist
+xReminderer-Info.plist
+lSLF07#2@29"Process Reminderer-Info.plist312428916#312428916#0(0"0(0#0#52"/Users/rynmrtn/code/Reminderer/Reminderer-Info.plist29555340712673360#464"    cd /Users/rynmrtn/code/Reminderer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Reminderer-Info.plist -genpkginfo /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app/Info.plist0#
+
+CProcessPCH /var/folders/Ht/Ht5vLYy2GiuH3KeNorJJY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reminderer_Prefix-akzuqgtqtiohiufckzpyegusosue/Reminderer_Prefix.pch.gch Reminderer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312428917.132689
+e312428917.789413
+r1
+xProcessPCH
+x/var/folders/Ht/Ht5vLYy2GiuH3KeNorJJY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reminderer_Prefix-akzuqgtqtiohiufckzpyegusosue/Reminderer_Prefix.pch.gch
+xReminderer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Reminderer_Prefix.pch312428917#312428917#0(0"0(0#0#52"/Users/rynmrtn/code/Reminderer/Reminderer_Prefix.pch8602923712#1783"    cd /Users/rynmrtn/code/Reminderer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-generated-files.hmap -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-own-target-headers.hmap -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-all-target-headers.hmap -iquote /Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/Reminderer-project-headers.hmap -F/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator -I/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/include -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/DerivedSources/i386 -I/Users/rynmrtn/code/Reminderer/build/Reminderer.build/Debug-iphonesimulator/Reminderer.build/DerivedSources -c /Users/rynmrtn/code/Reminderer/Reminderer_Prefix.pch -o /var/folders/Ht/Ht5vLYy2GiuH3KeNorJJY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Reminderer_Prefix-akzuqgtqtiohiufckzpyegusosue/Reminderer_Prefix.pch.gch0#
+
+CTouch /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app
+s312428918.013415
+e312428918.018426
+r1
+xTouch
+x/Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app
+lSLF07#2@79"Touch /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app312428918#312428918#0(0"0(0#0#0"8602939648#265"    cd /Users/rynmrtn/code/Reminderer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rynmrtn/code/Reminderer/build/Debug-iphonesimulator/Reminderer.app0#
+
